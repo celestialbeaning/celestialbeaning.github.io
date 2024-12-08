@@ -9,8 +9,9 @@ I AM GUNDA- oh wait, i need coffee first.
 2. office:
    3. kalita 102 / kalita wave
    4. hario mini mill that can take psle liao
+   5. the office water cooler
 
 
 ## coffee log
 
-[2024 notes](https://celestialbeaning.github.io/tasting/notes.md)
+[2024 notes](https://celestialbeaning.github.io/tasting/202412_notes.html)
