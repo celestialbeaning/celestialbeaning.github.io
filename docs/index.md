@@ -8,32 +8,32 @@ I AM GUNDA- oh wait, i need coffee first.
 
 ### resting & processing
 
-| Processing Method    | Rest Period (Days) | Notes |
-|---------------------|-------------------|--------|
-| Natural (dry)       | 10-14 | Intense fruit flavors need time to stabilize; longer rest due to complex fermentation compounds |
-| Washed             | 7-10  | Most predictable degassing; settles quickly into flavor profile |
-| Semi-washed        | 8-12  | Similar to washed but slightly longer rest needed |
-| Anaerobic          | 12-16 | Extended rest needed for fermentation compounds to settle |
-| Double Anaerobic   | 14-18 | Longest rest period due to most complex fermentation profile |
-| Honey              | 9-12  | Intermediate rest period; between washed and natural |
+| Processing Method | Rest Period (Days) | Notes                                                                                           |
+|-------------------|--------------------|-------------------------------------------------------------------------------------------------|
+| Natural (dry)     | 10-14              | Intense fruit flavors need time to stabilize; longer rest due to complex fermentation compounds |
+| Washed            | 7-10               | Most predictable degassing; settles quickly into flavor profile                                 |
+| Semi-washed       | 8-12               | Similar to washed but slightly longer rest needed                                               |
+| Anaerobic         | 12-16              | Extended rest needed for fermentation compounds to settle                                       |
+| Double Anaerobic  | 14-18              | Longest rest period due to most complex fermentation profile                                    |
+| Honey             | 9-12               | Intermediate rest period; between washed and natural                                            |
 
 ### extraction over/under
 
-| Issue | Causes | Solutions |
-|--------|---------|------------|
-| **SOUR (Under-extraction)** | • Water temperature too low (<195°F/90°C)<br>• Grind size too coarse<br>• Brew time too short<br>• Pour too fast/aggressive<br>• Not enough agitation<br>• Too high coffee-to-water ratio | • Grind finer<br>• Use hotter water (195-205°F/90-96°C)<br>• Slow down your pour<br>• Extend total brew time<br>• Ensure even saturation |
-| **BITTER (Over-extraction)** | • Water temperature too high (>205°F/96°C)<br>• Grind size too fine<br>• Brew time too long<br>• Too much agitation<br>• Water lingering in bed<br>• Too low coffee-to-water ratio | • Grind coarser<br>• Use slightly cooler water<br>• Speed up your pour<br>• Reduce total brew time<br>• Ensure proper drainage |
-| **Additional Factors** | • Dark roast level<br>• Hard water<br>• Stale beans<br>• Dirty equipment | • Choose lighter roasts<br>• Use appropriate water (filtered)<br>• Use fresh beans<br>• Clean equipment regularly |
+| Issue                        | Causes                                                                                                                                                                                    | Solutions                                                                                                                                |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **SOUR (Under-extraction)**  | • Water temperature too low (<195°F/90°C)<br>• Grind size too coarse<br>• Brew time too short<br>• Pour too fast/aggressive<br>• Not enough agitation<br>• Too high coffee-to-water ratio | • Grind finer<br>• Use hotter water (195-205°F/90-96°C)<br>• Slow down your pour<br>• Extend total brew time<br>• Ensure even saturation |
+| **BITTER (Over-extraction)** | • Water temperature too high (>205°F/96°C)<br>• Grind size too fine<br>• Brew time too long<br>• Too much agitation<br>• Water lingering in bed<br>• Too low coffee-to-water ratio        | • Grind coarser<br>• Use slightly cooler water<br>• Speed up your pour<br>• Reduce total brew time<br>• Ensure proper drainage           |
+| **Additional Factors**       | • Dark roast level<br>• Hard water<br>• Stale beans<br>• Dirty equipment                                                                                                                  | • Choose lighter roasts<br>• Use appropriate water (filtered)<br>• Use fresh beans<br>• Clean equipment regularly                        |
 
 ### filter paper 
 
-| Filter Type | Size | Thickness (mm) | Characteristics | Best For |
-|------------|------|----------------|-----------------|-----------|
-| Abaca Cone-shaped (White) | 1-cup | 0.17 | • Traditional cone shape<br>• Pure white paper<br>• Standard filtration<br>• Made from abaca fibers | • Daily brewing<br>• All-purpose use |
-| TH1 (Light Roast) | 1-cup | 0.20 | • Thicker paper<br>• Slower flow rate<br>• Enhanced filtration | • Light roasts<br>• Floral notes<br>• High acidity coffees |
-| TH2 (Medium Roast) | 1-cup | 0.17 | • Medium thickness<br>• Balanced flow rate<br>• Good clarity | • Medium roasts<br>• Balanced extraction<br>• Daily brewing |
-| TH3 (Dark Roast) | 1-cup | 0.14 | • Thinner paper<br>• Faster flow rate<br>• Less contact time | • Dark roasts<br>• Reduced bitterness<br>• Bold flavors |
-| ABACA+ | 1-cup | 0.17 | • Premium abaca fiber<br>• Enhanced filtration<br>• Superior paper strength<br>• Better clarity | • Premium brewing<br>• Clarity-focused brews |
+| Filter Type               | Size  | Thickness (mm) | Characteristics                                                                                     | Best For                                                    |
+|---------------------------|-------|----------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Abaca Cone-shaped (White) | 1-cup | 0.17           | • Traditional cone shape<br>• Pure white paper<br>• Standard filtration<br>• Made from abaca fibers | • Daily brewing<br>• All-purpose use                        |
+| TH1 (Light Roast)         | 1-cup | 0.20           | • Thicker paper<br>• Slower flow rate<br>• Enhanced filtration                                      | • Light roasts<br>• Floral notes<br>• High acidity coffees  |
+| TH2 (Medium Roast)        | 1-cup | 0.17           | • Medium thickness<br>• Balanced flow rate<br>• Good clarity                                        | • Medium roasts<br>• Balanced extraction<br>• Daily brewing |
+| TH3 (Dark Roast)          | 1-cup | 0.14           | • Thinner paper<br>• Faster flow rate<br>• Less contact time                                        | • Dark roasts<br>• Reduced bitterness<br>• Bold flavors     |
+| ABACA+                    | 1-cup | 0.17           | • Premium abaca fiber<br>• Enhanced filtration<br>• Superior paper strength<br>• Better clarity     | • Premium brewing<br>• Clarity-focused brews                |
 
 ### dialing in
 
